@@ -2,7 +2,7 @@
 ## Seyehat Otomasyonu
 ### NDP Dersi Projesi
 ***
-Proje Tanıtım PDF: [Görsel Tanıtım Raporu](https://github.com/GulsYildirim/Choomix/blob/GulsYildirim-1/4.Sayfa/NDPSeyehatOtomasyonuProjesi.pdf) 
+Proje Tanıtım PDF: [Görsel Tanıtım Raporu](https://github.com/GulsYildirim/Choomix/blob/main/4.Sayfa/NDPSeyehatOtomasyonuProjesi.pdf) 
 ***
 Choomix projesi kullanıcıların seyahat planlarında yardımcı olmak amacıyla yapıldı. Otobüs ve uçak  , müze, tur, restoran işlemlerinin hepsini bir araya toplar. Program'a girişte Dünya ve Şehirler olmak üzere 2 çeşit seçenek ve Kayıt olma, Giriş Yapma ve Admin girişi butonları bulunur. Kısa Tanıtım:
 ___
